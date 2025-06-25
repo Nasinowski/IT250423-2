@@ -1,0 +1,44 @@
+Microsoft Windows [Version 10.0.26100.3775]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\nelson\Documents>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 9604-88C9
+
+ Directory of C:\Users\nelson\Documents
+
+06/18/2025  08:49 AM    <DIR>          .
+03/14/2025  08:28 AM    <DIR>          ..
+05/14/2025  03:12 PM    <DIR>          Custom Office Templates
+06/18/2025  08:49 AM    <DIR>          dev
+05/14/2025  01:33 PM                 0 Info.txt
+05/12/2025  03:02 PM    <DIR>          IT250423
+06/04/2025  12:55 PM    <DIR>          LabVIEW Data
+06/04/2025  12:54 PM    <DIR>          My Notebook Content
+06/06/2025  11:14 AM               248 new 1.txt
+05/13/2025  03:11 PM    <DIR>          Pelles C Projects
+06/04/2025  12:54 PM    <DIR>          SMART Notebook
+               2 File(s)            248 bytes
+               9 Dir(s)  138,049,683,456 bytes free
+
+C:\Users\nelson\Documents>tree
+Folder PATH listing for volume Windows
+Volume serial number is 9604-88C9
+C:.
+├───Custom Office Templates
+├───dev
+│   └───python
+├───IT250423
+│   └───Mod04
+├───LabVIEW Data
+├───My Notebook Content
+├───Pelles C Projects
+│   ├───Resizer
+│   ├───Samples
+│   │   └───Standard C
+│   │       └───Hello
+│   └───theforger
+│       └───output
+└───SMART Notebook
+
+C:\Users\nelson\Documents>
